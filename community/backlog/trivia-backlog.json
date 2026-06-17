@@ -361,7 +361,9 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": false
+    "issued": false,
+    "completedBy": "ded-furby",
+    "completedPR": 21040
   },
   {
     "id": 27,
@@ -402,7 +404,7 @@
       "Sendai"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -486,7 +488,7 @@
       "Romaji"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -500,7 +502,7 @@
       "Aikido"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -738,7 +740,7 @@
       "Mount Haku"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -753,7 +755,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 55,
@@ -767,7 +769,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 56,
@@ -878,7 +880,7 @@
       "Nagano"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1116,7 +1118,7 @@
       "Fue"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1312,7 +1314,7 @@
       "Kyushu"
     ],
     "correctIndex": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

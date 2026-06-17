@@ -200,7 +200,7 @@
   {
     "id": 34,
     "fact": "There's a Japanese festival called 'Hadaka Matsuri' where thousands of nearly naked men compete to catch lucky charms thrown by priests.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -242,7 +242,7 @@
   {
     "id": 41,
     "fact": "The Japanese word 'yūgen' (幽玄) describes a profound awareness of the universe that triggers emotional responses too deep for words.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -326,7 +326,7 @@
   {
     "id": 55,
     "fact": "The concept of 'omotenashi' (おもてなし) is Japanese hospitality that anticipates needs before guests even realize them.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -776,7 +776,7 @@
   {
     "id": 130,
     "fact": "Japan has a toilet museum in Kitakyushu where you can slide down a giant toilet and learn about sewage history.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -818,7 +818,7 @@
   {
     "id": 137,
     "fact": "The Japanese word 'okashi' (おかしい) means both 'funny' and 'strange' - humor and oddity are deeply connected.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -932,7 +932,7 @@
   {
     "id": 156,
     "fact": "Japan has a dish called 'natto' - fermented soybeans so stringy and pungent that even many Japanese can't stand it.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "id": 178,
     "fact": "Japan has vending machines that dispense hot canned coffee - a major morning ritual for millions of workers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1244,13 +1244,13 @@
   {
     "id": 208,
     "fact": "Japan has an art of wrapping gifts called 'tsutsumi' (包み), where presentation is considered part of the gift.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 209,
     "fact": "The Japanese phrase 'ittekimasu' (行ってきます) is said when leaving home, meaning 'I'll go and come back'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "id": 277,
     "fact": "Japan’s 'pocket tissues' are commonly handed out on streets as tiny promotional giveaways for shops or services.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

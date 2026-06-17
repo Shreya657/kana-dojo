@@ -46,7 +46,7 @@
     "english": "I, Giorno Giovanna, have a dream!",
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Giorno Giovanna",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -196,7 +196,7 @@
     "english": "I'm gonna be King of the Pirates!",
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -266,7 +266,7 @@
     "english": "Lero lero lero lero.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Noriaki Kakyoin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -536,7 +536,7 @@
     "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -556,7 +556,7 @@
     "english": "But I refuse. (alt wording 4)",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Rohan Kishibe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -706,7 +706,7 @@
     "english": "What?! (alt wording 19)",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -726,7 +726,7 @@
     "english": "If you give up, that's the end of the game. (alt wording 21)",
     "anime": "Slam Dunk",
     "character": "Kaede Rukawa",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -816,7 +816,7 @@
     "english": "Shishishi! (alt wording 30)",
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1306,7 +1306,7 @@
     "english": "Lero lero lero lero. (alt wording 27) (alt wording 79)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Noriaki Kakyoin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1406,7 +1406,7 @@
     "english": "You are already dead",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]
