@@ -82,6 +82,12 @@ export const GENERATED_WALLPAPERS: GeneratedWallpaper[] = [
     urlWebp: 'https://assets.kanadojo.com/wallpapers/bangkok-sunset-2560w.webp',
   },
   {
+    id: 'blue-mountain-sunrise',
+    name: 'Blue Mountain Sunrise',
+    url: 'https://assets.kanadojo.com/wallpapers/blue-mountain-sunrise-2560w.avif',
+    urlWebp: 'https://assets.kanadojo.com/wallpapers/blue-mountain-sunrise-2560w.webp',
+  },
+  {
     id: 'chureito-fuji-sunset',
     name: 'Chureito Fuji Sunset',
     url: 'https://assets.kanadojo.com/wallpapers/chureito-fuji-sunset-1920w.avif',
@@ -122,6 +128,12 @@ export const GENERATED_WALLPAPERS: GeneratedWallpaper[] = [
     name: 'Moonlit Crossing',
     url: 'https://assets.kanadojo.com/wallpapers/moonlit-crossing-2560w.avif',
     urlWebp: 'https://assets.kanadojo.com/wallpapers/moonlit-crossing-2560w.webp',
+  },
+  {
+    id: 'moraine-lake-sunrise',
+    name: 'Moraine Lake Sunrise',
+    url: 'https://assets.kanadojo.com/wallpapers/moraine-lake-sunrise-2560w.avif',
+    urlWebp: 'https://assets.kanadojo.com/wallpapers/moraine-lake-sunrise-2560w.webp',
   },
   {
     id: 'neon-cafe',
