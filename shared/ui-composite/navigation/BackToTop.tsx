@@ -155,6 +155,18 @@ export default function BackToTop() {
   }, []);
 
   useEffect(() => {
+    // `window.innerHeight`/`visualViewport.height` don't exist during SSR, so
+    // `stableVh` starts at the SSR-safe literal '100dvh' and can only be
+    // resolved to a real pixel value once we're guaranteed to be on the
+    // client (i.e. inside an effect, after mount). Reading it eagerly in the
+    // component body (or via a lazy useState initializer) would run during
+    // the client's hydration render too, producing a different value than
+    // the server-rendered markup and causing a hydration mismatch on the
+    // '--stable-vh' style property. This is a legitimate one-time
+    // measurement of an external, browser-only value on mount, not the
+    // "subscribe then setState in a callback" shape the rule expects, so the
+    // warning here is a false positive for this pattern.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     updateStableVh(true);
 
     if (typeof document === 'undefined') return;
