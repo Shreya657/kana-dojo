@@ -420,9 +420,9 @@
   "secondaryColor": "oklch(55.0% 0.045 260.0 / 1)"
 },
   {
-  id: 'digital-oni',
-  backgroundColor: 'oklch(14.0% 0.075 355.0 / 1)',
-  mainColor: 'oklch(68.0% 0.240 10.0 / 1)',
-  secondaryColor: 'oklch(78.0% 0.195 150.0 / 1)'
+   "id": "digital-oni",
+   "backgroundColor": "oklch(14.0% 0.075 355.0 / 1)",
+   "mainColor": "oklch(68.0% 0.240 10.0 / 1)",
+   "secondaryColor": "oklch(78.0% 0.195 150.0 / 1)"
 }
 ]
